@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | ig.news</title>
+        <title>Home | ac.devs</title>
       </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>

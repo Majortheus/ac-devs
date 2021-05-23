@@ -22,7 +22,7 @@ export default function Posts({ posts }: PostProps) {
   return (
     <>
       <Head>
-        <title>Posts | ad.devs</title>
+        <title>Posts | ac.devs</title>
       </Head>
 
       <main className={styles.container}>

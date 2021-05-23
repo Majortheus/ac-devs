@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
-          <span>👏 Hey, activer</span>
+          <span>👏 Hey, Activer</span>
           <h1>Venha acompanhar e <span>aprender</span>.</h1>
 
           <p>
-            Descubra as maluquisses que os <span>devs</span> estão aprontando e viage nessa loucura.
+          Papo reto e descontraído sobre a rotina dos devs da Active. <span>Dicas</span> sobre carreira e tudo de mais novo que envolve a área de <span>tecnologia</span>. Vamos lá? 
           </p>
         </section>
         <img src="/images/avatar.svg" alt="Girl coding" />

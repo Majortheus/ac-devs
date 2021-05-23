@@ -13,7 +13,6 @@ export default function Home() {
         <section className={styles.hero}>
           <span>👏 Hey, Activer</span>
           <h1>Venha acompanhar e <span>aprender</span>.</h1>
-
           <p>
           Papo reto e descontraído sobre a rotina dos devs da Active. <span>Dicas</span> sobre carreira e tudo de mais novo que envolve a área de <span>tecnologia</span>. Vamos lá? 
           </p>
